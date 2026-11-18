@@ -83,11 +83,12 @@ Além da área pública destinada aos clientes, onde é possível visualizar os 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
-/>          
+/>       
+
 <img 
     align="left" 
-    alt="Redis" 
-    title="Redis"
+    alt="Junit" 
+    title="Junit"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
